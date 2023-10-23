@@ -1,6 +1,10 @@
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
-<p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/karoldayansolerorozco">Karol</a>'s Profile 👋</h1>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Karol!;I'm+a+Biomedical+engineer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+data+Analyst;I+use+technology+to+enhance+health)](https://git.io/typing-svg)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+
 
