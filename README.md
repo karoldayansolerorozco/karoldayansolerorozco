@@ -14,7 +14,7 @@ I'm a biomedical engineering student. I'm dedicated to enhancing my skills and c
 - 🌱 I’m continuously learning and exploring the world of Computer Vision.
 - 👯 I like ice cream or candy things.
 - 💬 Feel free to ask me about jellyfish or general Biology.
-- 📫 You can reach out to me at (k.solerorozco@gmail.com).
+- 📫 You can reach out to me at (k.soler@uniandes.edu.co.
 - 😄 Activities: Karate, draw and paint
 - ⚡ Fun fact: I'm a big fan of technological innovation in healthcare and aspire to contribute to more personalized and effective patient care.
 
